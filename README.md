@@ -1,2 +1,3 @@
-# caesar-cyph
-Basic java caesar cypher encrypter/decrypter script 
+script includes an encrypter , decrypter and brute-force decrypter.
+enjoy!!!
+
