@@ -1,4 +1,4 @@
-# caeser-ciph
+# caesar-ciph
 
 simple Caesar cipher encryption and decryption script written in Java.
 
